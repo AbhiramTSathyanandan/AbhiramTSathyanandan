@@ -11,9 +11,7 @@
 - 🔹 Senior **Node.js Engineer** with 4+ years of experience  
 - 🔹 **Blockchain Developer** (2+ years, Solana & Internet Computer)  
 - 🔹 Skilled in **Rust (Axum, Anchor)**, **Motoko**, and **AWS Serverless**  
-- 🔹 Creator of **FluxChain** – a multi-chain utility & mathematical platform  
-- 🔹 Passionate about **DeFi, dApps, and Web3 infrastructure**  
-- 🔹 Exploring **passive income projects & product building**  
+- 🔹 Passionate about **DeFi, dApps, and Web3 infrastructure** 
 
 ---
 
@@ -28,16 +26,6 @@
 - **Cloud & Infra**: AWS (Lambda, CDK, Step Functions, DynamoDB, CloudFront), Docker  
 - **Databases**: MongoDB, PostgreSQL, DynamoDB  
 - **Blockchain**: Solana (Anchor, PDAs, Token Programs), Internet Computer (Motoko, ICRC)  
-
----
-
-## 🌟 Featured Projects  
-
-🔹 **[Solmail](https://github.com/)** – A Solana-based decentralized email system using PDAs & NFT wrapping.  
-🔹 **DCA/Swap Canisters** – Internet Computer canisters for automated trading & liquidity management.  
-🔹 **ELNA** – AWS Lambda-based system with Step Functions & SQS for large file processing.  
-🔹 **DocuSign on Solana** – Document signing workflow with the Solana Attestation Service.  
-🔹 **FluxChain** – Full-stack multi-chain mathematical utility platform.  
 
 ---
 
